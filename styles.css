@@ -1,0 +1,33 @@
+* {
+    background-color: aliceblue;
+}
+.bandera {
+    width: 300px;
+    height: auto;
+}
+
+.manguimg {
+    width: 300px;
+    height: auto;
+}
+
+.mofongoimg {
+    width: 300px;
+    height: auto;
+}
+
+.mangupage {
+    text-align: center;
+}
+
+.firstP {
+    text-align: justify;
+}
+
+#container {
+    justify-content: center;
+}
+
+h1 {
+    color: red;
+}
